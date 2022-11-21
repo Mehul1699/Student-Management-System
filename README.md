@@ -1,4 +1,4 @@
-**REST API for Student Management System Application**
+#REST API for Student Management System Application
 
 **Tech Stacks Used**
 * Java
